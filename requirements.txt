@@ -1,4 +1,4 @@
 Flask
 flask-cors
-mishkal
 gunicorn
+camel-tools
